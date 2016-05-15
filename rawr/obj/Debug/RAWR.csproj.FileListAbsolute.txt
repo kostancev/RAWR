@@ -1,0 +1,30 @@
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.Properties.Resources.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.csproj.GenerateResource.Cache
+C:\Users\Marijo\Desktop\RAWR\RAWR\bin\Debug\RAWR.exe
+C:\Users\Marijo\Desktop\RAWR\RAWR\bin\Debug\RAWR.pdb
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.exe
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.pdb
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.highscoreform.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.csprojResolveAssemblyReference.cache
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.playbuttonform.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.howtoplayform.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.Game.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.CreateLevelForm.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.EndGameForm.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.MainMenuForm.resources
+C:\Users\Marijo\Desktop\RAWR\RAWR\obj\Debug\RAWR.NextLevelForm.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.exe
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.pdb
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\bin\Debug\RAWR.exe
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\bin\Debug\RAWR.pdb
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.CreateLevelForm.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.EndGameForm.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.highscoreform.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.howtoplayform.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.MainMenuForm.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.NextLevelForm.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.PlayButtonForm.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.Properties.Resources.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.Game.resources
+C:\Users\Elena\Desktop\RAWR - Copy (7)\RAWR\obj\Debug\RAWR.csproj.GenerateResource.Cache
